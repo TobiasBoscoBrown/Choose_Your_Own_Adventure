@@ -1,6 +1,8 @@
-﻿  Source.cpp
+﻿  Player.cpp
+  Source.cpp
+  Generating Code...
 c:\users\temp account\source\repos\choose_your_own_adventure\choose_your_own_adventure\functions.h(116): warning C4715: 'lose': not all control paths return a value
 c:\users\temp account\source\repos\choose_your_own_adventure\choose_your_own_adventure\functions.h(160): warning C4715: 'win': not all control paths return a value
-c:\users\temp account\source\repos\choose_your_own_adventure\choose_your_own_adventure\functions.h(1043): warning C4715: 'room12': not all control paths return a value
 c:\users\temp account\source\repos\choose_your_own_adventure\choose_your_own_adventure\functions.h(845): warning C4715: 'room10': not all control paths return a value
+c:\users\temp account\source\repos\choose_your_own_adventure\choose_your_own_adventure\functions.h(1043): warning C4715: 'room12': not all control paths return a value
   Choose_Your_Own_Adventure.vcxproj -> C:\Users\Temp Account\source\repos\Choose_Your_Own_Adventure\Debug\Choose_Your_Own_Adventure.exe

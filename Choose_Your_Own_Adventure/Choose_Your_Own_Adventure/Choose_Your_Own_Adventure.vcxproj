@@ -27,9 +27,6 @@
     <ClInclude Include="Functions.h" />
     <ClInclude Include="Player.h" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\SpeedDist\SpeedDist.sln" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{68A084B8-A878-4745-B7EC-ED1406301BE8}</ProjectGuid>
@@ -88,6 +85,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">

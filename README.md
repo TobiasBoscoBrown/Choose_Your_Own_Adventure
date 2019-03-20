@@ -1,4 +1,4 @@
-# Choose_Your_Own_Adventure1.0
+# Choose_Your_Own_Adventure1.1
 This is a simple Windows console game that is based upon getting passed rooms. You get to choose the name, age, and race of your character, as you attempt to make the correct choices to proceed further in the game.
 
 In order to run it, download the entire file, navigate to the Choose_Your_Own_Adventure folder, and run the executable file. (NOT COMPATIBLE WITH APPLE)
